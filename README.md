@@ -4,7 +4,7 @@ DMT is a world-class product, use responsibly. Beware of aliens! 👾
 
 Satisfaction not guaranteed. It may leave lasting consequences.
 
-There is also a life-improvement software with the same name which is a coincidence (one in a million).
+There is also a life-improvement software with the same name.
 
 ![lorenz](https://raw.githubusercontent.com/uniqpath/info/master/assets/img/lorenz.png)
 
